@@ -6,7 +6,7 @@
 ### Estou me desenvolvendo na linguagem JavaScript.
 ### Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos.
 
-![hippo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
+![hippo]([https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif](https://tenor.com/pt-BR/view/goblin-slayer-power-gif-12673725))
 
 
 
